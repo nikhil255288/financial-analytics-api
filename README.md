@@ -10,3 +10,7 @@
 ```bash
 python init_db.py
 python -m uvicorn main:app --reload
+
+## 📊 Power BI Dashboard
+
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
