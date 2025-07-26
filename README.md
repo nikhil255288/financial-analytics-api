@@ -40,4 +40,6 @@ python init_db.py
 python -m uvicorn main:app --reload
 
 Author
-Made with 💙 by Nikhil
+🙌 Author  
+Made with 💙 by [Nikhil](https://www.linkedin.com/in/nikhil-teja-b00ab1282/)
+
