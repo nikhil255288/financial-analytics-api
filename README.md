@@ -10,13 +10,8 @@
 ```bash
 python init_db.py
 python -m uvicorn main:app --reload
-
 ## 📊 Power BI Dashboard
 
-## 📊 Power BI Dashboard
+A snapshot of the Power BI dashboard used in this project:
 
-## 📊 Power BI Dashboard
-
-## 📊 Power BI Dashboard
-
-![Power BI Dashboard](https://raw.githubusercontent.com/nikhil255288/financial-analytics-api/main/screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
