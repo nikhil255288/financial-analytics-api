@@ -14,4 +14,4 @@ python -m uvicorn main:app --reload
 
 A snapshot of the Power BI dashboard used in this project:
 
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](https://raw.githubusercontent.com/nikhil255288/financial-analytics-api/main/screenshots/powerbi_dashboard.png)
